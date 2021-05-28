@@ -68,6 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 #### Azure Deplyment Static web app
 https://create-react-app.dev/docs/deployment/
 
+https://agreeable-river-01f356110.azurestaticapps.net/
+
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
