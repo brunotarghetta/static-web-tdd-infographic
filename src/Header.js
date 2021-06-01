@@ -1,13 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 
-export const Body =()=> {
+export const Header =()=> {
 
     return (
-        <body className="App-body">
+        <header className="App-header">
             <img src={logo} className="App-logo" alt="logo" />
         
-        </body>
+        </header>
     );
 
 }
